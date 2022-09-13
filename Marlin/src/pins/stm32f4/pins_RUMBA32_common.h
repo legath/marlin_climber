@@ -117,11 +117,12 @@
 //
 #define HEATER_0_PIN                        PC6
 #define HEATER_1_PIN                        PC7
-#define HEATER_2_PIN                        PC8
+//#define HEATER_2_PIN                        PC8
 #define HEATER_BED_PIN                      PA1
 
 #define FAN_PIN                             PC9
 #define FAN1_PIN                            PA8
+#define FAN2_PIN PC8
 
 //
 // SPI
